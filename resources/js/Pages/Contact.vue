@@ -105,6 +105,5 @@ const sendMail = () => {
                 </div>
             </div>
         </div>
-        @livewireScripts
     </GuestLayout>
 </template>
